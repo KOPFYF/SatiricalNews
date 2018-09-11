@@ -1,0 +1,783 @@
+models already downloaded
+#Words: 118 -> 118
+{'words': ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'], 'verbs': [{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'based', 'description': 'Satellite images of the Sohae station seen by [ARGM-LOC: US] - [V: based] [ARG1: monitoring group] 38 North suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-LOC', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang [V: is] complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'complying', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest [ARG0: Pyongyang] is [V: complying] [ARG1: with a promise made to the US in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'made', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang is complying with [ARG1: a promise] [V: made] [ARG2: to the US] [ARGM-TMP: in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 17 min_id: 0
+min_O: 17 min_id: 0
+{'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .
+-------arg0v.word_idx: [23, 46, 5, 2, 24, 47, 48, 49, 13, 14, 50, 51, 52, 53, 7]
+in args2index
+arg: ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North'] 
+
+sent: ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'] 
+
+in args2index
+arg: ['Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June'] 
+
+sent: ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'] 
+
+{'words': ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'], 'verbs': [{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'had', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un [V: had] vowed to destroy an engine test site , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'vowed', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had [V: vowed] [ARG1: to destroy an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'destroy', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to [V: destroy] [ARG1: an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'did', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un had vowed to destroy an engine test site , but [V: did] not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'specify', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to destroy an engine test site , but did [ARGM-NEG: not] [V: specify] [ARG1: which one] .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .
+-------arg0v.word_idx: [16, 26, 17]
+in args2index
+arg: ['President', 'Donald', 'Trump'] 
+
+sent: ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'] 
+
+in args2index
+arg: ['North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site'] 
+
+sent: ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'] 
+
+{'words': ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'], 'verbs': [{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Pyongyang has maintained that [ARG1: Sohae] [V: is] [ARG2: a satellite launch site] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}]}
+{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 10 min_id: 0
+{'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .
+-------arg0v.word_idx: [8]
+in args2index
+arg: ['Pyongyang'] 
+
+sent: ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'] 
+
+in args2index
+arg: ['that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site'] 
+
+sent: ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'] 
+
+{'words': ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'], 'verbs': [{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'has', 'description': 'But US officials suspect that it [V: has] been used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'been', 'description': 'But US officials suspect that it has [V: been] used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'used', 'description': 'But US officials suspect that [ARG1: it] has been [V: used] [ARG2: to test ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'B-ARG1', 'O', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'test', 'description': 'But US officials suspect that it has been used to [V: test] [ARG1: ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .
+mod But
+-------arg0v.word_idx: [13, 70]
+in args2index
+arg: ['US', 'officials'] 
+
+sent: ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'] 
+
+in args2index
+arg: ['that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles'] 
+
+sent: ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'] 
+
+{'words': ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'], 'verbs': [{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'work', 'description': 'During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month , the two leaders signed a deal to [V: work] [ARG1: towards the " complete denuclearisation of the Korean Peninsula] " .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O']}]}
+{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 0
+min_O: 2 min_id: 0
+[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .
+mod During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month
+-------arg0v.word_idx: [2, 82, 83]
+in args2index
+arg: ['the', 'two', 'leaders'] 
+
+sent: ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'] 
+
+in args2index
+arg: ['a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"'] 
+
+sent: ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'] 
+
+{'words': ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'], 'verbs': [{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'would', 'description': 'But the deal was criticised for a lack of details on when or how Pyongyang [V: would] renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'renounce', 'description': 'But the deal was criticised for a lack of details on [ARGM-MNR: when or how] [ARG0: Pyongyang] [ARGM-MOD: would] [V: renounce] [ARG1: its nuclear weapons] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'B-ARG0', 'B-ARGM-MOD', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 20 min_id: 0
+{'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .
+mod But
+in args2index
+arg: ['the', 'deal'] 
+
+sent: ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'] 
+
+in args2index
+arg: ['for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons'] 
+
+sent: ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'] 
+
+{'words': ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'], 'verbs': [{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}, {'verb': 'was', 'description': 'Earlier on Monday , President Trump said that [ARG1: he] [V: was] [ARG2: " very happy " with the progress in relations with North Korea] , saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'saying', 'description': 'Earlier on Monday , [ARG0: President Trump] said that he was " very happy " with the progress in relations with North Korea , [V: saying] [ARG1: that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'had', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that Pyongyang [V: had] not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'launched', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] [V: launched] [ARG1: any missiles] or carried out any nuclear tests [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}, {'verb': 'carried', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] launched any missiles or [V: carried] out [ARG1: any nuclear tests] [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'O', 'O', 'O', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .
+mod Earlier on Monday
+-------arg0v.word_idx: [16, 17]
+in args2index
+arg: ['President', 'Trump'] 
+
+sent: ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'] 
+
+in args2index
+arg: ['that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea'] 
+
+sent: ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'] 
+
+{'words': ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'], 'verbs': [{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'took', 'description': 'North Korea has carried out a total of six nuclear tests , [ARG1: the most recent of which] [V: took] [ARG2: place] [ARGM-TMP: in September last year] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 23 min_id: 0
+{'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 3 min_id: 1
+min_O: 3 min_id: 1
+[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .
+-------arg0v.word_idx: [7, 18]
+in args2index
+arg: ['North', 'Korea'] 
+
+sent: ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'] 
+
+in args2index
+arg: ['a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year'] 
+
+sent: ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'] 
+
+{'words': ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'], 'verbs': [{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'based', 'description': 'Satellite images of the Sohae station seen by [ARGM-LOC: US] - [V: based] [ARG1: monitoring group] 38 North suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-LOC', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang [V: is] complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'complying', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest [ARG0: Pyongyang] is [V: complying] [ARG1: with a promise made to the US in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'made', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang is complying with [ARG1: a promise] [V: made] [ARG2: to the US] [ARGM-TMP: in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 17 min_id: 0
+min_O: 17 min_id: 0
+{'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .
+-------arg0v.word_idx: [23, 46, 5, 2, 24, 47, 48, 49, 13, 14, 50, 51, 52, 53, 7]
+{'words': ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'], 'verbs': [{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'had', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un [V: had] vowed to destroy an engine test site , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'vowed', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had [V: vowed] [ARG1: to destroy an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'destroy', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to [V: destroy] [ARG1: an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'did', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un had vowed to destroy an engine test site , but [V: did] not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'specify', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to destroy an engine test site , but did [ARGM-NEG: not] [V: specify] [ARG1: which one] .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .
+-------arg0v.word_idx: [16, 26, 17]
+{'words': ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'], 'verbs': [{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Pyongyang has maintained that [ARG1: Sohae] [V: is] [ARG2: a satellite launch site] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}]}
+{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 10 min_id: 0
+{'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .
+-------arg0v.word_idx: [8]
+{'words': ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'], 'verbs': [{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'has', 'description': 'But US officials suspect that it [V: has] been used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'been', 'description': 'But US officials suspect that it has [V: been] used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'used', 'description': 'But US officials suspect that [ARG1: it] has been [V: used] [ARG2: to test ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'B-ARG1', 'O', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'test', 'description': 'But US officials suspect that it has been used to [V: test] [ARG1: ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .
+mod But
+-------arg0v.word_idx: [13, 70]
+{'words': ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'], 'verbs': [{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'work', 'description': 'During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month , the two leaders signed a deal to [V: work] [ARG1: towards the " complete denuclearisation of the Korean Peninsula] " .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O']}]}
+{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 0
+min_O: 2 min_id: 0
+[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .
+mod During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month
+-------arg0v.word_idx: [2, 82, 83]
+{'words': ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'], 'verbs': [{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'would', 'description': 'But the deal was criticised for a lack of details on when or how Pyongyang [V: would] renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'renounce', 'description': 'But the deal was criticised for a lack of details on [ARGM-MNR: when or how] [ARG0: Pyongyang] [ARGM-MOD: would] [V: renounce] [ARG1: its nuclear weapons] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'B-ARG0', 'B-ARGM-MOD', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 20 min_id: 0
+{'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .
+mod But
+{'words': ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'], 'verbs': [{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}, {'verb': 'was', 'description': 'Earlier on Monday , President Trump said that [ARG1: he] [V: was] [ARG2: " very happy " with the progress in relations with North Korea] , saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'saying', 'description': 'Earlier on Monday , [ARG0: President Trump] said that he was " very happy " with the progress in relations with North Korea , [V: saying] [ARG1: that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'had', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that Pyongyang [V: had] not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'launched', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] [V: launched] [ARG1: any missiles] or carried out any nuclear tests [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}, {'verb': 'carried', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] launched any missiles or [V: carried] out [ARG1: any nuclear tests] [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'O', 'O', 'O', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .
+mod Earlier on Monday
+-------arg0v.word_idx: [16, 17]
+{'words': ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'], 'verbs': [{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'took', 'description': 'North Korea has carried out a total of six nuclear tests , [ARG1: the most recent of which] [V: took] [ARG2: place] [ARGM-TMP: in September last year] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 23 min_id: 0
+{'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 3 min_id: 1
+min_O: 3 min_id: 1
+[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .
+-------arg0v.word_idx: [7, 18]
+0 [[8, 16], [57, 57], [133, 133], [136, 136], [165, 165]] 
+
+0 ['US - based monitoring group 38 North suggest Pyongyang', 'Pyongyang', 'Pyongyang', 'its', 'Pyongyang'] 
+
+1 [[4, 4], [61, 61], [73, 73]] 
+
+1 ['Sohae', 'Sohae', 'it'] 
+
+2 [[29, 31], [87, 89], [144, 145], [148, 148]] 
+
+2 ['President Donald Trump', 'President Donald Trump', 'President Trump', 'he'] 
+
+3 [[33, 40], [91, 94]] 
+
+3 ["North Korea 's leader Kim Jong - un", 'Kim Jong - un'] 
+
+4 [[104, 105], [120, 121]] 
+
+4 ['a deal', 'the deal'] 
+
+5 [[33, 35], [160, 161], [183, 184]] 
+
+5 ["North Korea 's", 'North Korea', 'North Korea'] 
+
+6 [[97, 98], [204, 205]] 
+
+6 ['last month', 'last year'] 
+
+[8, 16]
+[57, 57]
+[133, 133]
+[136, 136]
+[165, 165]
+[4, 4]
+[61, 61]
+[73, 73]
+[29, 31]
+[87, 89]
+[144, 145]
+[148, 148]
+[33, 40]
+[91, 94]
+[104, 105]
+[120, 121]
+[33, 35]
+[160, 161]
+[183, 184]
+[97, 98]
+[204, 205]
+Unique_ls_arg0: 
+ [[Vertex('Pyongyang')], [Vertex('Satellite images of the Sohae station seen by US - based monitoring group 38 North')], [Vertex('President Donald Trump'), Vertex('President Trump')], [Vertex('North Korea')], [Vertex('US officials')], [Vertex('the two leaders')]]
+Unique_ls_arg1: 
+ [[Vertex('that Sohae is a satellite launch site'), Vertex('that it has been used to test ballistic missiles')], [Vertex('that he was " very happy " with the progress in relations with North Korea')], [Vertex('North Korea 's leader Kim Jong - un had vowed to destroy an engine test site')], [Vertex('a deal to work towards the " complete denuclearisation of the Korean Peninsula "'), Vertex('the deal')], [Vertex('North Korea 's leader Kim Jong - un had vowed to destroy an engine test site'), Vertex('that he was " very happy " with the progress in relations with North Korea')], [Vertex('a total of six nuclear tests , the most recent of which took place in September last year')], [Vertex('Pyongyang is complying with a promise made to the US in June')]]
+Unique_ls_arg2: 
+ [[Vertex('for a lack of details on when or how Pyongyang would renounce its nuclear weapons'), Vertex('for a lack of details on when or how Pyongyang would renounce its nuclear weapons')]]
+Unique_ls_pred: 
+ [Vertex('said'), Vertex('signed'), Vertex('carried'), Vertex('suspect'), Vertex('maintained'), Vertex('criticised'), Vertex('suggest')]
+{'words': ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'], 'verbs': [{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'based', 'description': 'Satellite images of the Sohae station seen by [ARGM-LOC: US] - [V: based] [ARG1: monitoring group] 38 North suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-LOC', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang [V: is] complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'complying', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest [ARG0: Pyongyang] is [V: complying] [ARG1: with a promise made to the US in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'made', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang is complying with [ARG1: a promise] [V: made] [ARG2: to the US] [ARGM-TMP: in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 17 min_id: 0
+min_O: 17 min_id: 0
+{'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .
+-------arg0v.word_idx: [23, 46, 5, 2, 24, 47, 48, 49, 13, 14, 50, 51, 52, 53, 7]
+in args2index
+arg: ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North'] 
+
+sent: ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'] 
+
+in args2index
+arg: ['Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June'] 
+
+sent: ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'] 
+
+{'words': ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'], 'verbs': [{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'had', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un [V: had] vowed to destroy an engine test site , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'vowed', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had [V: vowed] [ARG1: to destroy an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'destroy', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to [V: destroy] [ARG1: an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'did', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un had vowed to destroy an engine test site , but [V: did] not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'specify', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to destroy an engine test site , but did [ARGM-NEG: not] [V: specify] [ARG1: which one] .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .
+-------arg0v.word_idx: [16, 26, 17]
+in args2index
+arg: ['President', 'Donald', 'Trump'] 
+
+sent: ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'] 
+
+in args2index
+arg: ['North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site'] 
+
+sent: ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'] 
+
+{'words': ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'], 'verbs': [{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Pyongyang has maintained that [ARG1: Sohae] [V: is] [ARG2: a satellite launch site] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}]}
+{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 10 min_id: 0
+{'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .
+-------arg0v.word_idx: [8]
+in args2index
+arg: ['Pyongyang'] 
+
+sent: ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'] 
+
+in args2index
+arg: ['that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site'] 
+
+sent: ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'] 
+
+{'words': ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'], 'verbs': [{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'has', 'description': 'But US officials suspect that it [V: has] been used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'been', 'description': 'But US officials suspect that it has [V: been] used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'used', 'description': 'But US officials suspect that [ARG1: it] has been [V: used] [ARG2: to test ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'B-ARG1', 'O', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'test', 'description': 'But US officials suspect that it has been used to [V: test] [ARG1: ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .
+mod But
+-------arg0v.word_idx: [13, 70]
+in args2index
+arg: ['US', 'officials'] 
+
+sent: ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'] 
+
+in args2index
+arg: ['that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles'] 
+
+sent: ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'] 
+
+{'words': ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'], 'verbs': [{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'work', 'description': 'During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month , the two leaders signed a deal to [V: work] [ARG1: towards the " complete denuclearisation of the Korean Peninsula] " .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O']}]}
+{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 0
+min_O: 2 min_id: 0
+[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .
+mod During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month
+-------arg0v.word_idx: [2, 82, 83]
+in args2index
+arg: ['the', 'two', 'leaders'] 
+
+sent: ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'] 
+
+in args2index
+arg: ['a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"'] 
+
+sent: ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'] 
+
+{'words': ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'], 'verbs': [{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'would', 'description': 'But the deal was criticised for a lack of details on when or how Pyongyang [V: would] renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'renounce', 'description': 'But the deal was criticised for a lack of details on [ARGM-MNR: when or how] [ARG0: Pyongyang] [ARGM-MOD: would] [V: renounce] [ARG1: its nuclear weapons] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'B-ARG0', 'B-ARGM-MOD', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 20 min_id: 0
+{'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .
+mod But
+in args2index
+arg: ['the', 'deal'] 
+
+sent: ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'] 
+
+in args2index
+arg: ['for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons'] 
+
+sent: ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'] 
+
+{'words': ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'], 'verbs': [{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}, {'verb': 'was', 'description': 'Earlier on Monday , President Trump said that [ARG1: he] [V: was] [ARG2: " very happy " with the progress in relations with North Korea] , saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'saying', 'description': 'Earlier on Monday , [ARG0: President Trump] said that he was " very happy " with the progress in relations with North Korea , [V: saying] [ARG1: that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'had', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that Pyongyang [V: had] not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'launched', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] [V: launched] [ARG1: any missiles] or carried out any nuclear tests [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}, {'verb': 'carried', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] launched any missiles or [V: carried] out [ARG1: any nuclear tests] [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'O', 'O', 'O', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .
+mod Earlier on Monday
+-------arg0v.word_idx: [16, 17]
+in args2index
+arg: ['President', 'Trump'] 
+
+sent: ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'] 
+
+in args2index
+arg: ['that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea'] 
+
+sent: ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'] 
+
+{'words': ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'], 'verbs': [{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'took', 'description': 'North Korea has carried out a total of six nuclear tests , [ARG1: the most recent of which] [V: took] [ARG2: place] [ARGM-TMP: in September last year] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 23 min_id: 0
+{'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 3 min_id: 1
+min_O: 3 min_id: 1
+[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .
+-------arg0v.word_idx: [7, 18]
+in args2index
+arg: ['North', 'Korea'] 
+
+sent: ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'] 
+
+in args2index
+arg: ['a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year'] 
+
+sent: ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'] 
+
+{'words': ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'], 'verbs': [{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'based', 'description': 'Satellite images of the Sohae station seen by [ARGM-LOC: US] - [V: based] [ARG1: monitoring group] 38 North suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-LOC', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang [V: is] complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'complying', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest [ARG0: Pyongyang] is [V: complying] [ARG1: with a promise made to the US in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'made', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang is complying with [ARG1: a promise] [V: made] [ARG2: to the US] [ARGM-TMP: in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 17 min_id: 0
+min_O: 17 min_id: 0
+{'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .
+-------arg0v.word_idx: [23, 46, 5, 2, 24, 47, 48, 49, 13, 14, 50, 51, 52, 53, 7]
+{'words': ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'], 'verbs': [{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'had', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un [V: had] vowed to destroy an engine test site , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'vowed', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had [V: vowed] [ARG1: to destroy an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'destroy', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to [V: destroy] [ARG1: an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'did', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un had vowed to destroy an engine test site , but [V: did] not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'specify', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to destroy an engine test site , but did [ARGM-NEG: not] [V: specify] [ARG1: which one] .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .
+-------arg0v.word_idx: [16, 26, 17]
+{'words': ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'], 'verbs': [{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Pyongyang has maintained that [ARG1: Sohae] [V: is] [ARG2: a satellite launch site] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}]}
+{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 10 min_id: 0
+{'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .
+-------arg0v.word_idx: [8]
+{'words': ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'], 'verbs': [{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'has', 'description': 'But US officials suspect that it [V: has] been used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'been', 'description': 'But US officials suspect that it has [V: been] used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'used', 'description': 'But US officials suspect that [ARG1: it] has been [V: used] [ARG2: to test ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'B-ARG1', 'O', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'test', 'description': 'But US officials suspect that it has been used to [V: test] [ARG1: ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .
+mod But
+-------arg0v.word_idx: [13, 70]
+{'words': ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'], 'verbs': [{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'work', 'description': 'During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month , the two leaders signed a deal to [V: work] [ARG1: towards the " complete denuclearisation of the Korean Peninsula] " .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O']}]}
+{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 0
+min_O: 2 min_id: 0
+[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .
+mod During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month
+-------arg0v.word_idx: [2, 82, 83]
+{'words': ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'], 'verbs': [{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'would', 'description': 'But the deal was criticised for a lack of details on when or how Pyongyang [V: would] renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'renounce', 'description': 'But the deal was criticised for a lack of details on [ARGM-MNR: when or how] [ARG0: Pyongyang] [ARGM-MOD: would] [V: renounce] [ARG1: its nuclear weapons] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'B-ARG0', 'B-ARGM-MOD', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 20 min_id: 0
+{'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .
+mod But
+{'words': ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'], 'verbs': [{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}, {'verb': 'was', 'description': 'Earlier on Monday , President Trump said that [ARG1: he] [V: was] [ARG2: " very happy " with the progress in relations with North Korea] , saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'saying', 'description': 'Earlier on Monday , [ARG0: President Trump] said that he was " very happy " with the progress in relations with North Korea , [V: saying] [ARG1: that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'had', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that Pyongyang [V: had] not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'launched', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] [V: launched] [ARG1: any missiles] or carried out any nuclear tests [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}, {'verb': 'carried', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] launched any missiles or [V: carried] out [ARG1: any nuclear tests] [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'O', 'O', 'O', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .
+mod Earlier on Monday
+-------arg0v.word_idx: [16, 17]
+{'words': ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'], 'verbs': [{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'took', 'description': 'North Korea has carried out a total of six nuclear tests , [ARG1: the most recent of which] [V: took] [ARG2: place] [ARGM-TMP: in September last year] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 23 min_id: 0
+{'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 3 min_id: 1
+min_O: 3 min_id: 1
+[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .
+-------arg0v.word_idx: [7, 18]
+0 [[8, 16], [57, 57], [133, 133], [136, 136], [165, 165]] 
+
+0 ['US - based monitoring group 38 North suggest Pyongyang', 'Pyongyang', 'Pyongyang', 'its', 'Pyongyang'] 
+
+1 [[4, 4], [61, 61], [73, 73]] 
+
+1 ['Sohae', 'Sohae', 'it'] 
+
+2 [[29, 31], [87, 89], [144, 145], [148, 148]] 
+
+2 ['President Donald Trump', 'President Donald Trump', 'President Trump', 'he'] 
+
+3 [[33, 40], [91, 94]] 
+
+3 ["North Korea 's leader Kim Jong - un", 'Kim Jong - un'] 
+
+4 [[104, 105], [120, 121]] 
+
+4 ['a deal', 'the deal'] 
+
+5 [[33, 35], [160, 161], [183, 184]] 
+
+5 ["North Korea 's", 'North Korea', 'North Korea'] 
+
+6 [[97, 98], [204, 205]] 
+
+6 ['last month', 'last year'] 
+
+[8, 16]
+[57, 57]
+[133, 133]
+[136, 136]
+[165, 165]
+[4, 4]
+[61, 61]
+[73, 73]
+[29, 31]
+[87, 89]
+[144, 145]
+[148, 148]
+[33, 40]
+[91, 94]
+[104, 105]
+[120, 121]
+[33, 35]
+[160, 161]
+[183, 184]
+[97, 98]
+[204, 205]
+Unique_ls_arg0: 
+ [[Vertex('Pyongyang')], [Vertex('Satellite images of the Sohae station seen by US - based monitoring group 38 North')], [Vertex('President Donald Trump'), Vertex('President Trump')], [Vertex('North Korea')], [Vertex('US officials')], [Vertex('the two leaders')]]
+Unique_ls_arg1: 
+ [[Vertex('that Sohae is a satellite launch site'), Vertex('that it has been used to test ballistic missiles')], [Vertex('that he was " very happy " with the progress in relations with North Korea')], [Vertex('North Korea 's leader Kim Jong - un had vowed to destroy an engine test site')], [Vertex('a deal to work towards the " complete denuclearisation of the Korean Peninsula "'), Vertex('the deal')], [Vertex('North Korea 's leader Kim Jong - un had vowed to destroy an engine test site'), Vertex('that he was " very happy " with the progress in relations with North Korea')], [Vertex('a total of six nuclear tests , the most recent of which took place in September last year')], [Vertex('Pyongyang is complying with a promise made to the US in June')]]
+Unique_ls_arg2: 
+ [[Vertex('for a lack of details on when or how Pyongyang would renounce its nuclear weapons'), Vertex('for a lack of details on when or how Pyongyang would renounce its nuclear weapons')]]
+Unique_ls_pred: 
+ [Vertex('said'), Vertex('signed'), Vertex('carried'), Vertex('suspect'), Vertex('maintained'), Vertex('criticised'), Vertex('suggest')]
+{'words': ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'], 'verbs': [{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'based', 'description': 'Satellite images of the Sohae station seen by [ARGM-LOC: US] - [V: based] [ARG1: monitoring group] 38 North suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-LOC', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang [V: is] complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'complying', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest [ARG0: Pyongyang] is [V: complying] [ARG1: with a promise made to the US in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'made', 'description': 'Satellite images of the Sohae station seen by US - based monitoring group 38 North suggest Pyongyang is complying with [ARG1: a promise] [V: made] [ARG2: to the US] [ARGM-TMP: in June] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'seen', 'description': 'Satellite images of [ARG1: the Sohae station] [V: seen] [ARG0: by US - based monitoring group 38 North] suggest Pyongyang is complying with a promise made to the US in June .', 'tags': ['O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 17 min_id: 0
+min_O: 17 min_id: 0
+{'verb': 'suggest', 'description': '[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .', 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+min_O: 1 min_id: 2
+[ARG0: Satellite images of the Sohae station seen by US - based monitoring group 38 North] [V: suggest] [ARG1: Pyongyang is complying with a promise made to the US in June] .
+-------arg0v.word_idx: [23, 46, 5, 2, 24, 47, 48, 49, 13, 14, 50, 51, 52, 53, 7]
+in args2index
+arg: ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North'] 
+
+sent: ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'] 
+
+in args2index
+arg: ['Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June'] 
+
+sent: ['Satellite', 'images', 'of', 'the', 'Sohae', 'station', 'seen', 'by', 'US', '-', 'based', 'monitoring', 'group', '38', 'North', 'suggest', 'Pyongyang', 'is', 'complying', 'with', 'a', 'promise', 'made', 'to', 'the', 'US', 'in', 'June', '.'] 
+
+{'words': ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'], 'verbs': [{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'had', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un [V: had] vowed to destroy an engine test site , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'vowed', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had [V: vowed] [ARG1: to destroy an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'destroy', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to [V: destroy] [ARG1: an engine test site] , but did not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'did', 'description': "President Donald Trump said North Korea 's leader Kim Jong - un had vowed to destroy an engine test site , but [V: did] not specify which one .", 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'specify', 'description': "President Donald Trump said [ARG0: North Korea 's leader Kim Jong - un] had vowed to destroy an engine test site , but did [ARGM-NEG: not] [V: specify] [ARG1: which one] .", 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'said', 'description': "[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .", 'tags': ['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+min_O: 8 min_id: 0
+[ARG0: President Donald Trump] [V: said] [ARG1: North Korea 's leader Kim Jong - un had vowed to destroy an engine test site] , but did not specify which one .
+-------arg0v.word_idx: [16, 26, 17]
+in args2index
+arg: ['President', 'Donald', 'Trump'] 
+
+sent: ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'] 
+
+in args2index
+arg: ['North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site'] 
+
+sent: ['President', 'Donald', 'Trump', 'said', 'North', 'Korea', "'s", 'leader', 'Kim', 'Jong', '-', 'un', 'had', 'vowed', 'to', 'destroy', 'an', 'engine', 'test', 'site', ',', 'but', 'did', 'not', 'specify', 'which', 'one', '.'] 
+
+{'words': ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'], 'verbs': [{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'is', 'description': 'Pyongyang has maintained that [ARG1: Sohae] [V: is] [ARG2: a satellite launch site] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}]}
+{'verb': 'has', 'description': 'Pyongyang [V: has] maintained that Sohae is a satellite launch site .', 'tags': ['O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 10 min_id: 0
+{'verb': 'maintained', 'description': '[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .', 'tags': ['B-ARG0', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARG0: Pyongyang] has [V: maintained] [ARG1: that Sohae is a satellite launch site] .
+-------arg0v.word_idx: [8]
+in args2index
+arg: ['Pyongyang'] 
+
+sent: ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'] 
+
+in args2index
+arg: ['that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site'] 
+
+sent: ['Pyongyang', 'has', 'maintained', 'that', 'Sohae', 'is', 'a', 'satellite', 'launch', 'site', '.'] 
+
+{'words': ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'], 'verbs': [{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'has', 'description': 'But US officials suspect that it [V: has] been used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'been', 'description': 'But US officials suspect that it has [V: been] used to test ballistic missiles .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'used', 'description': 'But US officials suspect that [ARG1: it] has been [V: used] [ARG2: to test ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'B-ARG1', 'O', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'test', 'description': 'But US officials suspect that it has been used to [V: test] [ARG1: ballistic missiles] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'suspect', 'description': '[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .', 'tags': ['B-ARGM-DIS', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+min_O: 1 min_id: 0
+[ARGM-DIS: But] [ARG0: US officials] [V: suspect] [ARG1: that it has been used to test ballistic missiles] .
+mod But
+-------arg0v.word_idx: [13, 70]
+in args2index
+arg: ['US', 'officials'] 
+
+sent: ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'] 
+
+in args2index
+arg: ['that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles'] 
+
+sent: ['But', 'US', 'officials', 'suspect', 'that', 'it', 'has', 'been', 'used', 'to', 'test', 'ballistic', 'missiles', '.'] 
+
+{'words': ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'], 'verbs': [{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'work', 'description': 'During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month , the two leaders signed a deal to [V: work] [ARG1: towards the " complete denuclearisation of the Korean Peninsula] " .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'O']}]}
+{'verb': 'signed', 'description': '[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 2 min_id: 0
+min_O: 2 min_id: 0
+[ARGM-TMP: During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month] , [ARG0: the two leaders] [V: signed] [ARG1: a deal to work towards the " complete denuclearisation of the Korean Peninsula "] .
+mod During a landmark meeting between President Donald Trump and Kim Jong - un in Singapore last month
+-------arg0v.word_idx: [2, 82, 83]
+in args2index
+arg: ['the', 'two', 'leaders'] 
+
+sent: ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'] 
+
+in args2index
+arg: ['a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"'] 
+
+sent: ['During', 'a', 'landmark', 'meeting', 'between', 'President', 'Donald', 'Trump', 'and', 'Kim', 'Jong', '-', 'un', 'in', 'Singapore', 'last', 'month', ',', 'the', 'two', 'leaders', 'signed', 'a', 'deal', 'to', 'work', 'towards', 'the', '"', 'complete', 'denuclearisation', 'of', 'the', 'Korean', 'Peninsula', '"', '.'] 
+
+{'words': ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'], 'verbs': [{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}, {'verb': 'would', 'description': 'But the deal was criticised for a lack of details on when or how Pyongyang [V: would] renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'renounce', 'description': 'But the deal was criticised for a lack of details on [ARGM-MNR: when or how] [ARG0: Pyongyang] [ARGM-MOD: would] [V: renounce] [ARG1: its nuclear weapons] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'B-ARG0', 'B-ARGM-MOD', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']}]}
+{'verb': 'was', 'description': 'But the deal [V: was] criticised for a lack of details on when or how Pyongyang would renounce its nuclear weapons .', 'tags': ['O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 20 min_id: 0
+{'verb': 'criticised', 'description': '[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .', 'tags': ['B-ARGM-DIS', 'B-ARG1', 'I-ARG1', 'O', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']}
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+min_O: 2 min_id: 1
+[ARGM-DIS: But] [ARG1: the deal] was [V: criticised] [ARG2: for a lack of details on when or how Pyongyang would renounce its nuclear weapons] .
+mod But
+in args2index
+arg: ['the', 'deal'] 
+
+sent: ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'] 
+
+in args2index
+arg: ['for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons'] 
+
+sent: ['But', 'the', 'deal', 'was', 'criticised', 'for', 'a', 'lack', 'of', 'details', 'on', 'when', 'or', 'how', 'Pyongyang', 'would', 'renounce', 'its', 'nuclear', 'weapons', '.'] 
+
+{'words': ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'], 'verbs': [{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}, {'verb': 'was', 'description': 'Earlier on Monday , President Trump said that [ARG1: he] [V: was] [ARG2: " very happy " with the progress in relations with North Korea] , saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'saying', 'description': 'Earlier on Monday , [ARG0: President Trump] said that he was " very happy " with the progress in relations with North Korea , [V: saying] [ARG1: that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'B-ARG0', 'I-ARG0', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'had', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that Pyongyang [V: had] not launched any missiles or carried out any nuclear tests during the last nine months .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'launched', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] [V: launched] [ARG1: any missiles] or carried out any nuclear tests [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'I-ARG1', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}, {'verb': 'carried', 'description': 'Earlier on Monday , President Trump said that he was " very happy " with the progress in relations with North Korea , saying that [ARG0: Pyongyang] had [ARGM-NEG: not] launched any missiles or [V: carried] out [ARG1: any nuclear tests] [ARGM-TMP: during the last nine months] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG0', 'O', 'B-ARGM-NEG', 'O', 'O', 'O', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'said', 'description': '[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .', 'tags': ['B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O', 'B-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O', 'B-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'I-ARGM-ADV', 'O']}
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+min_O: 3 min_id: 0
+[ARGM-TMP: Earlier on Monday] , [ARG0: President Trump] [V: said] [ARG1: that he was " very happy " with the progress in relations with North Korea] , [ARGM-ADV: saying that Pyongyang had not launched any missiles or carried out any nuclear tests during the last nine months] .
+mod Earlier on Monday
+-------arg0v.word_idx: [16, 17]
+in args2index
+arg: ['President', 'Trump'] 
+
+sent: ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'] 
+
+in args2index
+arg: ['that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea'] 
+
+sent: ['Earlier', 'on', 'Monday', ',', 'President', 'Trump', 'said', 'that', 'he', 'was', '"', 'very', 'happy', '"', 'with', 'the', 'progress', 'in', 'relations', 'with', 'North', 'Korea', ',', 'saying', 'that', 'Pyongyang', 'had', 'not', 'launched', 'any', 'missiles', 'or', 'carried', 'out', 'any', 'nuclear', 'tests', 'during', 'the', 'last', 'nine', 'months', '.'] 
+
+{'words': ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'], 'verbs': [{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}, {'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}, {'verb': 'took', 'description': 'North Korea has carried out a total of six nuclear tests , [ARG1: the most recent of which] [V: took] [ARG2: place] [ARGM-TMP: in September last year] .', 'tags': ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'B-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'I-ARGM-TMP', 'O']}]}
+{'verb': 'has', 'description': 'North Korea [V: has] carried out a total of six nuclear tests , the most recent of which took place in September last year .', 'tags': ['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']}
+min_O: 23 min_id: 0
+{'verb': 'carried', 'description': '[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .', 'tags': ['B-ARG0', 'I-ARG0', 'O', 'B-V', 'O', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']}
+min_O: 3 min_id: 1
+min_O: 3 min_id: 1
+[ARG0: North Korea] has [V: carried] out [ARG1: a total of six nuclear tests , the most recent of which took place in September last year] .
+-------arg0v.word_idx: [7, 18]
+in args2index
+arg: ['North', 'Korea'] 
+
+sent: ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'] 
+
+in args2index
+arg: ['a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year'] 
+
+sent: ['North', 'Korea', 'has', 'carried', 'out', 'a', 'total', 'of', 'six', 'nuclear', 'tests', ',', 'the', 'most', 'recent', 'of', 'which', 'took', 'place', 'in', 'September', 'last', 'year', '.'] 
+
+0 [[8, 16], [57, 57], [133, 133], [136, 136], [165, 165]] 
+
+0 ['US - based monitoring group 38 North suggest Pyongyang', 'Pyongyang', 'Pyongyang', 'its', 'Pyongyang'] 
+
+1 [[4, 4], [61, 61], [73, 73]] 
+
+1 ['Sohae', 'Sohae', 'it'] 
+
+2 [[29, 31], [87, 89], [144, 145], [148, 148]] 
+
+2 ['President Donald Trump', 'President Donald Trump', 'President Trump', 'he'] 
+
+3 [[33, 40], [91, 94]] 
+
+3 ["North Korea 's leader Kim Jong - un", 'Kim Jong - un'] 
+
+4 [[104, 105], [120, 121]] 
+
+4 ['a deal', 'the deal'] 
+
+5 [[33, 35], [160, 161], [183, 184]] 
+
+5 ["North Korea 's", 'North Korea', 'North Korea'] 
+
+6 [[97, 98], [204, 205]] 
+
+6 ['last month', 'last year'] 
+
+[8, 16]
+[57, 57]
+[133, 133]
+[136, 136]
+[165, 165]
+[4, 4]
+[61, 61]
+[73, 73]
+[29, 31]
+[87, 89]
+[144, 145]
+[148, 148]
+[33, 40]
+[91, 94]
+[104, 105]
+[120, 121]
+[33, 35]
+[160, 161]
+[183, 184]
+[97, 98]
+[204, 205]
+echain_2d_ls_arg0: 
+ [[[6, 2, 2, 0]], [[8, 3, 8, 0]], [[2, 4, 6, 0], [2, 4, 6, 0]], [[4, 5, 7, 0]]]
+echain_2d_ls_arg1: 
+ [[[6, 2, 2, 0], [5, 6, 2, 0]], [[2, 4, 6, 0]], [[2, 4, 6, 0]], [[3, 7, 5, 0], [7, 0, 5, 2]], [[2, 4, 6, 0], [2, 4, 6, 0]], [[4, 5, 7, 0]]]
+echain_2d_ls_arg2: 
+ [[[7, 0, 5, 2], [7, 0, 5, 2]]]
+****** len_ls: [7, 6, 7, 1]
+****** echain_ls: [[[6, 2, 2, 0]], [[8, 3, 8, 0]], [[2, 4, 6, 0], [2, 4, 6, 0]], [[4, 5, 7, 0]], [[6, 2, 2, 0], [5, 6, 2, 0]], [[2, 4, 6, 0]], [[2, 4, 6, 0]], [[3, 7, 5, 0], [7, 0, 5, 2]], [[2, 4, 6, 0], [2, 4, 6, 0]], [[4, 5, 7, 0]], [[7, 0, 5, 2], [7, 0, 5, 2]]]

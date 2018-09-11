@@ -1,0 +1,1836 @@
+08-19 14:31 loaded 1 documents
+08-19 14:31 *************************
+08-19 14:31 processing 0 th document
+08-19 14:31 Memory usage is: 271.876 MB
+models already downloaded
+08-19 14:33 making path lists
+08-19 14:33 processing sentence 0
+Although the family separation crisis at the nation's southern border has slipped off the front pages, the crisis remains: There are still more than 2,000 children still separated from their parents.
+0
+[ARGM-ADV: Although the family separation crisis at the nation 's southern border has slipped off the front pages] , [ARG1: the crisis] [V: remains] : There are still more than 2,000 children still separated from their parents .
+-1 -1
+found head of ARGM-ADV
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG1
+-1 18
+-1 18
+Vertex([2, 288, 753, 835, 32, 2, 629, 11, 1450, 349, 30, 7994, 345, 2, 540, 1819, 2, 835],'the crisis',[(18, 19)],type=ARG1)
+found head of V
+19 20
+Vertex([963],'remains',[(20, 20)],type=V)
+20 20
+20 20
+20 20
+20 20
+20 20
+20 20
+20 20
+20 20
+20 20
+20 20
+20 20
+20 20
+20 20
+20 20
+Vertex([2, 288, 753, 835, 32, 2, 629, 11, 1450, 349, 30, 7994, 345, 2, 540, 1819, 2, 835],'the crisis',[(18, 19)],type=ARG1)
+in arg1 [1, -1, 0, -1]
+[1, -1, 0, -1]
+Because the US government continues to refuse to release any sorts of figures on how many children have been reunited with their parents.
+35
+Because [ARG0: the US government] [V: continues] [ARG1: to refuse to release any sorts of figures on how many children have been reunited with their parents] .
+-1 -1
+-1 -1
+found head of ARG0
+-1 1
+-1 1
+-1 1
+Vertex([2, 40, 111],'the US government',[(36, 38)],type=ARG0)
+found head of V
+3 4
+Vertex([1127],'continues',[(39, 39)],type=V)
+found head of ARG1
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+Vertex([6, 3172, 6, 739, 125, 7995, 7, 2446, 13, 129, 184, 152, 27, 53, 980, 17, 48, 173],'to refuse to release any sorts of figures on how many children have been reunited with their parents',[(40, 57)],type=ARG1)
+22 5
+Vertex([6, 3172, 6, 739, 125, 7995, 7, 2446, 13, 129, 184, 152, 27, 53, 980, 17, 48, 173],'to refuse to release any sorts of figures on how many children have been reunited with their parents',[(40, 57)],type=ARG1)
+in arg0 [3, 2, 4, -1]
+in arg1 [3, 2, 4, -1]
+[3, 2, 4, -1]
+In fact, after using the 2,000 figure for days, the Department of Health and Human Services now estimates it could be closer to 3,000.
+59
+[ARGM-DIS: In fact] , [ARGM-TMP: after using the 2,000 figure for days] , [ARG0: the Department of Health and Human Services] [ARGM-TMP: now] [V: estimates] [ARG1: it could be closer to 3,000] .
+-1 -1
+found head of ARGM-DIS
+-1 -1
+-1 -1
+-1 -1
+found head of ARGM-TMP
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG0
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+Vertex([444, 627, 2, 2584, 1583, 18, 285, 2, 144, 7, 420, 9, 1122, 1115],'the Department of Health and Human Services',[(70, 76)],type=ARG0)
+found head of ARGM-TMP
+17 11
+found head of V
+17 19
+Vertex([7996],'estimates',[(78, 78)],type=V)
+found head of ARG1
+19 20
+19 20
+19 20
+19 20
+19 20
+19 20
+Vertex([22, 79, 33, 1798, 6, 3521],'it could be closer to 3,000',[(79, 84)],type=ARG1)
+25 20
+Vertex([22, 79, 33, 1798, 6, 3521],'it could be closer to 3,000',[(79, 84)],type=ARG1)
+in arg0 [6, 5, 7, -1]
+in arg1 [6, 5, 7, -1]
+[6, 5, 7, -1]
+How is President Donald Trump dealing with that crisis?
+86
+[ARGM-MNR: How] is [ARG0: President Donald Trump] [V: dealing] [ARG1: with that crisis] ?
+-1 -1
+found head of ARGM-MNR
+-1 -1
+-1 -1
+found head of ARG0
+-1 2
+-1 2
+-1 2
+Vertex([28, 119, 14],'President Donald Trump',[(88, 90)],type=ARG0)
+found head of V
+4 5
+Vertex([1300],'dealing',[(91, 91)],type=V)
+found head of ARG1
+5 6
+5 6
+5 6
+Vertex([17, 12, 835],'with that crisis',[(92, 94)],type=ARG1)
+8 6
+Vertex([17, 12, 835],'with that crisis',[(92, 94)],type=ARG1)
+in arg0 [9, 8, 10, -1]
+in arg1 [9, 8, 10, -1]
+[9, 8, 10, -1]
+By tweeting, of course.
+96
+By [V: tweeting] , [ARGM-ADV: of course] .
+-1 -1
+-1 -1
+found head of V
+-1 1
+Vertex([1799],'tweeting',[(97, 97)],type=V)
+1 1
+found head of ARGM-ADV
+1 1
+1 1
+1 1
+None
+[11, -1, -1, -1]
+Trump unleashed a trio of tweets Thursday morning -- all dealing with immigration.
+102
+[ARG0: Trump] [V: unleashed] [ARG1: a trio of tweets] [ARGM-TMP: Thursday morning] -- [C-ARG1: all dealing with immigration] .
+-1 -1
+found head of ARG0
+-1 0
+Vertex([14],'Trump',[(102, 102)],type=ARG0)
+found head of V
+0 1
+Vertex([3162],'unleashed',[(103, 103)],type=V)
+found head of ARG1
+1 2
+1 2
+1 2
+1 2
+Vertex([8, 2623, 7, 986],'a trio of tweets',[(104, 107)],type=ARG1)
+found head of ARGM-TMP
+5 2
+5 2
+5 2
+found head of C-ARG1
+5 2
+5 2
+5 2
+5 2
+5 2
+Vertex([8, 2623, 7, 986],'a trio of tweets',[(104, 107)],type=ARG1)
+in arg0 [13, 12, 14, -1]
+in arg1 [13, 12, 14, -1]
+[13, 12, 14, -1]
+tweeted. "
+116
+[V: tweeted] . "
+-1 -1
+found head of V
+-1 0
+Vertex([340],'tweeted',[(116, 116)],type=V)
+0 0
+0 0
+None
+[15, -1, -1, -1]
+Law Enforcement at the Border is doing a great job, but the laws they are forced to work with are insane.
+119
+Law Enforcement at the Border is doing a great job , but [ARG1: the laws they are forced to work with] [V: are] [ARG2: insane] .
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG1
+-1 12
+-1 12
+-1 12
+-1 12
+-1 12
+-1 12
+-1 12
+-1 12
+Vertex([2, 794, 41, 34, 1250, 6, 189, 17],'the laws they are forced to work with',[(131, 138)],type=ARG1)
+found head of V
+19 20
+Vertex([34],'are',[(139, 139)],type=V)
+found head of ARG2
+20 21
+Vertex([2075],'insane',[(140, 140)],type=ARG2)
+21 21
+Vertex([2, 794, 41, 34, 1250, 6, 189, 17],'the laws they are forced to work with',[(131, 138)],type=ARG1)
+in arg1 [17, -1, 16, 18]
+in arg2 [17, -1, 16, 18]
+[17, -1, 16, 18]
+When people, with or without children, enter our Country, they must be told to leave without our Country being forced to endure a long and costly trial.
+142
+[ARGM-TMP: When people , with or without children , enter our Country] , [ARG2: they] [ARGM-MOD: must] be [V: told] [ARG1: to leave without our Country being forced to endure a long and costly trial] .
+-1 -1
+found head of ARGM-TMP
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG2
+-1 12
+Vertex([141, 3, 17, 65, 376, 152, 3, 1709, 92, 174, 41],'they',[(154, 154)],type=ARG2)
+found head of ARGM-MOD
+12 12
+12 12
+found head of V
+12 15
+Vertex([88],'told',[(157, 157)],type=V)
+found head of ARG1
+15 16
+15 16
+15 16
+15 16
+15 16
+15 16
+15 16
+15 16
+15 16
+15 16
+15 16
+15 16
+15 16
+15 16
+Vertex([6, 639, 376, 92, 174, 224, 1250, 6, 2613, 8, 247, 9, 4875, 245],'to leave without our Country being forced to endure a long and costly trial',[(158, 171)],type=ARG1)
+29 16
+Vertex([6, 639, 376, 92, 174, 224, 1250, 6, 2613, 8, 247, 9, 4875, 245],'to leave without our Country being forced to endure a long and costly trial',[(158, 171)],type=ARG1)
+in arg1 [20, -1, 21, 19]
+in arg2 [20, -1, 21, 19]
+[20, -1, 21, 19]
+Tell the people 'OUT,' and they must leave, just as they would if they were standing on your front lawn.
+173
+Tell the people ' OUT , ' and [ARG0: they] [ARGM-MOD: must] [V: leave] , [ARGM-MNR: just as they would if they were standing on your front lawn] .
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG0
+-1 8
+Vertex([41],'they',[(181, 181)],type=ARG0)
+found head of ARGM-MOD
+8 8
+found head of V
+8 10
+Vertex([639],'leave',[(183, 183)],type=V)
+10 10
+found head of ARGM-MNR
+10 10
+10 10
+10 10
+10 10
+10 10
+10 10
+10 10
+10 10
+10 10
+10 10
+10 10
+10 10
+10 10
+None
+in arg0 [23, 22, -1, -1]
+[23, 22, -1, -1]
+Hiring thousands of 'judges' does not work and is not acceptable - only Country in the World that does this!"
+198
+[ARG1: Hiring thousands of ' judges '] does not work and [V: is] [ARGM-NEG: not] [ARG2: acceptable] - [C-ARG1: only Country in the World that does this] ! "
+-1 -1
+found head of ARG1
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+Vertex([4877, 708, 7, 62, 642, 62],'Hiring thousands of 'judges'',[(198, 203)],type=ARG1)
+5 0
+5 0
+5 0
+5 0
+found head of V
+5 10
+Vertex([19],'is',[(208, 208)],type=V)
+found head of ARGM-NEG
+10 10
+found head of ARG2
+10 12
+Vertex([3578],'acceptable',[(210, 210)],type=ARG2)
+12 12
+found head of C-ARG1
+12 12
+12 12
+12 12
+12 12
+12 12
+12 12
+12 12
+12 12
+12 12
+12 12
+Vertex([4877, 708, 7, 62, 642, 62],'Hiring thousands of 'judges'',[(198, 203)],type=ARG1)
+in arg1 [25, -1, 24, 26]
+in arg2 [25, -1, 24, 26]
+[25, -1, 24, 26]
+Trump added: "Congress - FIX OUR INSANE IMMIGRATION LAWS NOW!"
+222
+[ARG0: Trump] [V: added] : " [ARG1: Congress - FIX OUR INSANE IMMIGRATION LAWS NOW] ! "
+-1 -1
+found head of ARG0
+-1 0
+Vertex([14],'Trump',[(222, 222)],type=ARG0)
+found head of V
+0 1
+Vertex([264],'added',[(223, 223)],type=V)
+1 1
+1 1
+found head of ARG1
+1 4
+1 4
+1 4
+1 4
+1 4
+1 4
+1 4
+1 4
+Vertex([177, 26, 2045, 92, 2075, 229, 794, 140],'Congress - FIX OUR INSANE IMMIGRATION LAWS NOW',[(226, 233)],type=ARG1)
+11 4
+11 4
+Vertex([177, 26, 2045, 92, 2075, 229, 794, 140],'Congress - FIX OUR INSANE IMMIGRATION LAWS NOW',[(226, 233)],type=ARG1)
+in arg0 [28, 27, 29, -1]
+in arg1 [28, 27, 29, -1]
+[28, 27, 29, -1]
+What you may have noticed in Trump's tweets is that there is a)
+236
+[ARG1: What you may have noticed in Trump 's tweets] [V: is] [ARG2: that there is a] )
+-1 -1
+found head of ARG1
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+Vertex([66, 56, 116, 27, 7997, 10, 14, 11, 986],'What you may have noticed in Trump's tweets',[(236, 244)],type=ARG1)
+found head of V
+8 9
+found Vertex([19],'is',[(208, 208)],type=V) at 25
+found head of ARG2
+9 10
+9 10
+9 10
+9 10
+Vertex([12, 69, 19, 8],'that there is a',[(246, 249)],type=ARG2)
+13 10
+Vertex([66, 56, 116, 27, 7997, 10, 14, 11, 986],'What you may have noticed in Trump's tweets',[(236, 244)],type=ARG1)
+in arg1 [25, -1, 30, 31]
+in arg2 [25, -1, 30, 31]
+[25, -1, 30, 31]
+no mention of the children already separated from their parents due to the Trump administration's "zero-tolerance" policy and b) no clear directive to Congress about any sort of comprehensive immigration reform proposal aside from "FIX OUR INSANE IMMIGRATION LAWS NOW," which is, um, sort of non-specific.
+251
+no mention of [ARG1: the children] [ARGM-TMP: already] [V: separated] [ARG0: from their parents] [ARGM-CAU: due to the Trump administration 's " zero - tolerance " policy] and b ) no clear directive to Congress about any sort of comprehensive immigration reform proposal aside from " FIX OUR INSANE IMMIGRATION LAWS NOW , " which is , um , sort of non - specific .
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG1
+-1 3
+-1 3
+Vertex([2, 152],'the children',[(254, 255)],type=ARG1)
+found head of ARGM-TMP
+4 3
+found head of V
+4 6
+Vertex([384],'separated',[(257, 257)],type=V)
+found head of ARG0
+6 7
+6 7
+6 7
+Vertex([31, 48, 173],'from their parents',[(258, 260)],type=ARG0)
+found head of ARGM-CAU
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+9 7
+Vertex([2, 152],'the children',[(254, 255)],type=ARG1)
+in arg0 [33, 34, 32, -1]
+in arg1 [33, 34, 32, -1]
+[33, 34, 32, -1]
+as set by a federal judge in California last week:
+311
+as [V: set] [ARG0: by a federal judge in California] [ARGM-TMP: last week] :
+-1 -1
+-1 -1
+found head of V
+-1 1
+Vertex([302],'set',[(312, 312)],type=V)
+found head of ARG0
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+Vertex([36, 8, 180, 87, 10, 732],'by a federal judge in California',[(313, 318)],type=ARG0)
+found head of ARGM-TMP
+7 2
+7 2
+7 2
+None
+in arg0 [35, 36, -1, -1]
+[35, 36, -1, -1]
+around 100 of those kids)By July 26, all children separated from their parents at the border have to be reunited
+322
+around 100 of those kids)By July 26 , [ARG1: all children separated from their parents at the border] have to be [V: reunited]
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG1
+-1 8
+-1 8
+-1 8
+-1 8
+-1 8
+-1 8
+-1 8
+-1 8
+-1 8
+Vertex([78, 152, 384, 31, 48, 173, 32, 2, 349],'all children separated from their parents at the border',[(330, 338)],type=ARG1)
+16 8
+16 8
+16 8
+found head of V
+16 20
+Vertex([980],'reunited',[(342, 342)],type=V)
+Vertex([78, 152, 384, 31, 48, 173, 32, 2, 349],'all children separated from their parents at the border',[(330, 338)],type=ARG1)
+in arg1 [38, -1, 37, -1]
+[38, -1, 37, -1]
+said it plans to meet the deadlines set by the California judge, although that might mean sending separated kids into detention facilities with their parents.
+343
+[V: said] [ARG1: it plans to meet the deadlines set by the California judge , although that might mean sending separated kids into detention facilities with their parents] .
+-1 -1
+found head of V
+-1 0
+Vertex([20],'said',[(343, 343)],type=V)
+found head of ARG1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+Vertex([22, 864, 6, 270, 2, 2581, 302, 36, 2, 732, 87, 3, 907, 12, 336, 682, 1540, 384, 635, 90, 793, 1586, 17, 48, 173],'it plans to meet the deadlines set by the California judge, although that might mean sending separated kids into detention facilities with their parents',[(344, 368)],type=ARG1)
+25 1
+Vertex([22, 864, 6, 270, 2, 2581, 302, 36, 2, 732, 87, 3, 907, 12, 336, 682, 1540, 384, 635, 90, 793, 1586, 17, 48, 173],'it plans to meet the deadlines set by the California judge, although that might mean sending separated kids into detention facilities with their parents',[(344, 368)],type=ARG1)
+in arg1 [39, -1, 40, -1]
+[39, -1, 40, -1]
+It's easy -- amid the numbers game and the various timelines -- to lose sight of something very, very important here: These are little kids we are talking about.
+370
+It [V: 's] [ARG2: easy] -- [ARGM-LOC: amid the numbers game and the various timelines] -- [ARG1: to lose sight of something very , very important here] : These are little kids we are talking about .
+-1 -1
+-1 -1
+found head of V
+-1 1
+Vertex([11],''s',[(371, 371)],type=V)
+found head of ARG2
+1 2
+Vertex([2422],'easy',[(372, 372)],type=ARG2)
+2 2
+found head of ARGM-LOC
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+found head of ARG1
+2 13
+2 13
+2 13
+2 13
+2 13
+2 13
+2 13
+2 13
+2 13
+2 13
+Vertex([2, 1028, 1631, 9, 2, 2487, 3919, 6, 1160, 8002, 7, 389, 102, 3, 102, 374, 289],'to lose sight of something very, very important here',[(383, 392)],type=ARG1)
+22 13
+22 13
+22 13
+22 13
+22 13
+22 13
+22 13
+22 13
+22 13
+22 13
+Vertex([2, 1028, 1631, 9, 2, 2487, 3919, 6, 1160, 8002, 7, 389, 102, 3, 102, 374, 289],'to lose sight of something very, very important here',[(383, 392)],type=ARG1)
+in arg1 [41, -1, 43, 42]
+in arg2 [41, -1, 43, 42]
+[41, -1, 43, 42]
+Some younger than 5.
+403
+As the father of two kids under age 10, I can't even imagine the terror these kids -- and their parents -- must be feeling.
+408
+[ARGM-PRD: As the father of two kids under age 10] , [ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [ARGM-ADV: even] [V: imagine] [ARG1: the terror these kids -- and their parents -- must be feeling] .
+-1 -1
+found head of ARGM-PRD
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG0
+-1 10
+Vertex([2, 797, 7, 122, 635, 158, 885, 16, 25],'I',[(418, 418)],type=ARG0)
+found head of ARGM-MOD
+10 10
+found head of ARGM-NEG
+10 10
+found head of ARGM-ADV
+10 10
+found head of V
+10 14
+Vertex([2122],'imagine',[(422, 422)],type=V)
+found head of ARG1
+14 15
+14 15
+14 15
+14 15
+14 15
+14 15
+14 15
+14 15
+14 15
+14 15
+14 15
+14 15
+Vertex([2, 2320, 205, 635, 35, 9, 48, 173, 35, 319, 33, 1394],'the terror these kids -- and their parents -- must be feeling',[(423, 434)],type=ARG1)
+26 15
+Vertex([2, 2320, 205, 635, 35, 9, 48, 173, 35, 319, 33, 1394],'the terror these kids -- and their parents -- must be feeling',[(423, 434)],type=ARG1)
+in arg0 [45, 44, 46, -1]
+in arg1 [45, 44, 46, -1]
+[45, 44, 46, -1]
+One time when my older son was 4, I couldn't find him in an outdoor mall for 10 minutes.
+436
+[ARGM-TMP: One time when my older son was 4] , [ARG0: I] [ARGM-MOD: could] [ARGM-NEG: n't] [V: find] [ARG1: him] [ARGM-LOC: in an outdoor mall] [ARGM-TMP: for 10 minutes] .
+-1 -1
+found head of ARGM-TMP
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG0
+-1 9
+Vertex([93, 74, 159, 2238, 828, 23, 16, 25],'I',[(445, 445)],type=ARG0)
+found head of ARGM-MOD
+9 9
+found head of ARGM-NEG
+9 9
+found head of V
+9 12
+Vertex([780],'find',[(448, 448)],type=V)
+found head of ARG1
+12 13
+Vertex([81],'him',[(449, 449)],type=ARG1)
+found head of ARGM-LOC
+13 13
+13 13
+13 13
+13 13
+found head of ARGM-TMP
+13 13
+13 13
+13 13
+13 13
+Vertex([81],'him',[(449, 449)],type=ARG1)
+in arg0 [48, 47, 49, -1]
+in arg1 [48, 47, 49, -1]
+[48, 47, 49, -1]
+I was absolutely panicked.
+458
+[ARG1: I] [V: was] [ARG2: absolutely panicked] .
+-1 -1
+found head of ARG1
+-1 0
+Vertex([25],'I',[(458, 458)],type=ARG1)
+found head of V
+0 1
+Vertex([23],'was',[(459, 459)],type=V)
+found head of ARG2
+1 2
+1 2
+Vertex([1947, 8005],'absolutely panicked',[(460, 461)],type=ARG2)
+3 2
+Vertex([25],'I',[(458, 458)],type=ARG1)
+in arg1 [51, -1, 50, 52]
+in arg2 [51, -1, 50, 52]
+[51, -1, 50, 52]
+So was he.
+463
+[ARG2: So] [V: was] [ARG1: he] .
+-1 -1
+found head of ARG2
+-1 0
+Vertex([118],'So',[(463, 463)],type=ARG2)
+found head of V
+0 1
+found Vertex([23],'was',[(459, 459)],type=V) at 51
+found head of ARG1
+1 2
+Vertex([15],'he',[(465, 465)],type=ARG1)
+2 2
+Vertex([15],'he',[(465, 465)],type=ARG1)
+in arg1 [51, -1, 54, 53]
+in arg2 [51, -1, 54, 53]
+[51, -1, 54, 53]
+That was 10 minutes.
+467
+[ARG1: That] [V: was] [ARG2: 10 minutes] .
+-1 -1
+found head of ARG1
+-1 0
+Vertex([12],'That',[(467, 467)],type=ARG1)
+found head of V
+0 1
+found Vertex([23],'was',[(459, 459)],type=V) at 51
+found head of ARG2
+1 2
+1 2
+Vertex([16, 985],'10 minutes',[(469, 470)],type=ARG2)
+3 2
+Vertex([12],'That',[(467, 467)],type=ARG1)
+in arg1 [51, -1, 55, 56]
+in arg2 [51, -1, 55, 56]
+[51, -1, 55, 56]
+We are talking about days and week in some cases here.
+472
+[ARG0: We] are [V: talking] [ARG1: about days and week in some cases] [ARGM-LOC: here] .
+-1 -1
+found head of ARG0
+-1 0
+Vertex([49],'We',[(472, 472)],type=ARG0)
+0 0
+found head of V
+0 2
+Vertex([1013],'talking',[(474, 474)],type=V)
+found head of ARG1
+2 3
+2 3
+2 3
+2 3
+2 3
+2 3
+2 3
+Vertex([42, 285, 9, 157, 10, 106, 451],'about days and week in some cases',[(475, 481)],type=ARG1)
+found head of ARGM-LOC
+9 3
+9 3
+Vertex([42, 285, 9, 157, 10, 106, 451],'about days and week in some cases',[(475, 481)],type=ARG1)
+in arg0 [58, 57, 59, -1]
+in arg1 [58, 57, 59, -1]
+[58, 57, 59, -1]
+This piece in the Los Angeles Times does a good job of capturing just how traumatic these separations have been.  
+484
+[ARG0: This piece in the Los Angeles Times] [V: does] [ARG1: a good job of capturing just how traumatic these separations have been] .
+-1 -1
+found head of ARG0
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+Vertex([44, 2209, 10, 2, 8006, 8007, 316],'This piece in the Los Angeles Times',[(484, 490)],type=ARG0)
+found head of V
+6 7
+Vertex([181],'does',[(491, 491)],type=V)
+found head of ARG1
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+Vertex([8, 286, 501, 7, 8008, 136, 129, 8009, 205, 1050, 27, 53],'a good job of capturing just how traumatic these separations have been',[(492, 503)],type=ARG1)
+19 8
+Vertex([8, 286, 501, 7, 8008, 136, 129, 8009, 205, 1050, 27, 53],'a good job of capturing just how traumatic these separations have been',[(492, 503)],type=ARG1)
+in arg0 [61, 60, 62, -1]
+in arg1 [61, 60, 62, -1]
+[61, 60, 62, -1]
+These lines in particular struck me:
+506
+[ARG2: These lines] [ARGM-ADV: in particular] [V: struck] [ARG1: me] :
+-1 -1
+found head of ARG2
+-1 0
+-1 0
+Vertex([205, 1386],'These lines',[(506, 507)],type=ARG2)
+found head of ARGM-ADV
+1 0
+1 0
+found head of V
+1 4
+Vertex([1181, 3396],'struck',[(510, 510)],type=V)
+found head of ARG1
+4 5
+Vertex([236],'me',[(511, 511)],type=ARG1)
+5 5
+Vertex([236],'me',[(511, 511)],type=ARG1)
+in arg1 [64, -1, 65, 63]
+in arg2 [64, -1, 65, 63]
+[64, -1, 65, 63]
+"The words appear on a scrap of paper, scrawled in pencil by an immigrant mother held at a detention center: 'We beg you to help us, return our children.
+513
+" [ARG1: The words] [V: appear] [ARGM-LOC: on a scrap of paper , scrawled in pencil by an immigrant mother held at a detention center] : ' We beg you to help us , return our children .
+-1 -1
+-1 -1
+found head of ARG1
+-1 1
+-1 1
+Vertex([2, 1157],'The words',[(514, 515)],type=ARG1)
+found head of V
+2 3
+Vertex([831],'appear',[(516, 516)],type=V)
+found head of ARGM-LOC
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+3 3
+Vertex([2, 1157],'The words',[(514, 515)],type=ARG1)
+in arg1 [67, -1, 66, -1]
+[67, -1, 66, -1]
+Our children are very desperate.
+548
+[ARG1: Our children] [V: are] [ARG2: very desperate] .
+-1 -1
+found head of ARG1
+-1 0
+-1 0
+Vertex([92, 152],'Our children',[(548, 549)],type=ARG1)
+found head of V
+1 2
+found Vertex([34],'are',[(139, 139)],type=V) at 17
+found head of ARG2
+2 3
+2 3
+Vertex([102, 2679],'very desperate',[(551, 552)],type=ARG2)
+4 3
+Vertex([92, 152],'Our children',[(548, 549)],type=ARG1)
+in arg1 [17, -1, 68, 69]
+in arg2 [17, -1, 68, 69]
+[17, -1, 68, 69]
+My son asks me to get him out
+554
+[ARG0: My son] [V: asks] [ARG2: me] [ARG1: to get him out]
+-1 -1
+found head of ARG0
+-1 0
+-1 0
+Vertex([159, 828],'My son',[(554, 555)],type=ARG0)
+found head of V
+1 2
+Vertex([3505],'asks',[(556, 556)],type=V)
+found head of ARG2
+2 3
+Vertex([236],'me',[(557, 557)],type=ARG2)
+found head of ARG1
+3 4
+3 4
+3 4
+3 4
+Vertex([6, 185, 81, 86],'to get him out',[(558, 561)],type=ARG1)
+Vertex([6, 185, 81, 86],'to get him out',[(558, 561)],type=ARG1)
+in arg0 [71, 70, 73, 72]
+in arg1 [71, 70, 73, 72]
+in arg2 [71, 70, 73, 72]
+[71, 70, 73, 72]
+and I'm powerless here.'
+562
+[ARGM-DIS: and] [ARG1: I] [V: 'm] [ARG2: powerless] [ARGM-LOC: here] . '
+-1 -1
+found head of ARGM-DIS
+-1 -1
+found head of ARG1
+-1 1
+Vertex([25],'I',[(563, 563)],type=ARG1)
+found head of V
+1 2
+Vertex([240],''m',[(564, 564)],type=V)
+found head of ARG2
+2 3
+Vertex([8013],'powerless',[(565, 565)],type=ARG2)
+found head of ARGM-LOC
+3 3
+3 3
+3 3
+Vertex([25],'I',[(563, 563)],type=ARG1)
+in arg1 [75, -1, 74, 76]
+in arg2 [75, -1, 74, 76]
+[75, -1, 74, 76]
+"In another letter, childish print on notebook paper, a mother spoke of her son: 'It's been a month since they snatched him away and there are moments when I can't go on....
+569
+" [ARGM-LOC: In another letter , childish print on notebook paper] , [ARG0: a mother] [V: spoke] [ARG1: of her son] : ' It 's been a month since they snatched him away and there are moments when I ca n't go on ....
+-1 -1
+-1 -1
+found head of ARGM-LOC
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG0
+-1 11
+-1 11
+Vertex([279, 1024, 3, 8014, 8015, 13, 8016, 1298, 8, 1334],'a mother',[(580, 581)],type=ARG0)
+found head of V
+12 13
+Vertex([783],'spoke',[(582, 582)],type=V)
+found head of ARG1
+13 14
+13 14
+13 14
+Vertex([7, 50, 828],'of her son',[(583, 585)],type=ARG1)
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+16 14
+Vertex([7, 50, 828],'of her son',[(583, 585)],type=ARG1)
+in arg0 [78, 77, 79, -1]
+in arg1 [78, 77, 79, -1]
+[78, 77, 79, -1]
+If they are going to deport me, let them do it —
+609
+[ARGM-ADV: If they are going to deport me] , [V: let] [ARG1: them do it] —
+-1 -1
+found head of ARGM-ADV
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of V
+-1 8
+Vertex([41, 34, 170, 6, 8018, 236, 558],'let',[(617, 617)],type=V)
+found head of ARG1
+8 9
+8 9
+8 9
+Vertex([139, 57, 22],'them do it',[(618, 620)],type=ARG1)
+11 9
+Vertex([139, 57, 22],'them do it',[(618, 620)],type=ARG1)
+in arg1 [80, -1, 81, -1]
+[80, -1, 81, -1]
+but with my child.
+622
+Without him, I am not going to leave here.'
+627
+[ARGM-MNR: Without him] , [ARG0: I] am not [ARGM-MOD: going] to [V: leave] [ARGM-LOC: here] . '
+-1 -1
+found head of ARGM-MNR
+-1 -1
+-1 -1
+-1 -1
+found head of ARG0
+-1 3
+Vertex([81, 25],'I',[(630, 630)],type=ARG0)
+3 3
+3 3
+found head of ARGM-MOD
+3 3
+3 3
+found head of V
+3 8
+found Vertex([639],'leave',[(183, 183)],type=V) at 23
+found head of ARGM-LOC
+8 8
+8 8
+8 8
+None
+in arg0 [23, 82, -1, -1]
+[23, 82, -1, -1]
+in arg0 [23, 82, 83, -1]
+in arg1 [23, 82, 83, -1]
+[23, 82, 83, -1]
+On Thursday, HHS Secretary Alex Azar would not give a specific number of separated children in HHS custody during a phone call with reporters.
+719
+[ARGM-TMP: On Thursday] , [ARG0: HHS Secretary Alex Azar] [ARGM-MOD: would] [ARGM-NEG: not] [V: give] [ARG1: a specific number of separated children in HHS custody] [ARGM-TMP: during a phone call with reporters] .
+-1 -1
+found head of ARGM-TMP
+-1 -1
+-1 -1
+-1 -1
+found head of ARG0
+-1 3
+-1 3
+-1 3
+-1 3
+Vertex([196, 1747, 213, 3464, 8022],'HHS Secretary Alex Azar',[(722, 725)],type=ARG0)
+found head of ARGM-MOD
+6 3
+found head of ARGM-NEG
+6 3
+found head of V
+6 9
+Vertex([524],'give',[(728, 728)],type=V)
+found head of ARG1
+9 10
+9 10
+9 10
+9 10
+9 10
+9 10
+9 10
+9 10
+9 10
+Vertex([8, 1943, 497, 7, 384, 152, 10, 1747, 448],'a specific number of separated children in HHS custody',[(729, 737)],type=ARG1)
+found head of ARGM-TMP
+18 10
+18 10
+18 10
+18 10
+18 10
+18 10
+18 10
+Vertex([8, 1943, 497, 7, 384, 152, 10, 1747, 448],'a specific number of separated children in HHS custody',[(729, 737)],type=ARG1)
+in arg0 [85, 84, 86, -1]
+in arg1 [85, 84, 86, -1]
+[85, 84, 86, -1]
+He said under 3,000 children currently in custody are being looked at as possibly separated minors and that approximately 100 children under the age of five in HHS custody may have been separated from their families.
+745
+[ARG0: He] [V: said] [ARG1: under 3,000 children currently in custody are being looked at as possibly separated minors and that approximately 100 children under the age of five in HHS custody may have been separated from their families] .
+-1 -1
+found head of ARG0
+-1 0
+Vertex([15],'He',[(745, 745)],type=ARG0)
+found head of V
+0 1
+found Vertex([20],'said',[(343, 343)],type=V) at 39
+found head of ARG1
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+Vertex([158, 3521, 152, 1177, 10, 448, 34, 224, 1876, 32, 24, 1729, 384, 1198, 9, 12, 2793, 16, 152, 158, 2, 885, 7, 582, 10, 1747, 448, 116, 27, 53, 384, 31, 48, 362],'under 3,000 children currently in custody are being looked at as possibly separated minors and that approximately 100 children under the age of five in HHS custody may have been separated from their families',[(747, 780)],type=ARG1)
+35 2
+Vertex([158, 3521, 152, 1177, 10, 448, 34, 224, 1876, 32, 24, 1729, 384, 1198, 9, 12, 2793, 16, 152, 158, 2, 885, 7, 582, 10, 1747, 448, 116, 27, 53, 384, 31, 48, 362],'under 3,000 children currently in custody are being looked at as possibly separated minors and that approximately 100 children under the age of five in HHS custody may have been separated from their families',[(747, 780)],type=ARG1)
+in arg0 [39, 87, 88, -1]
+in arg1 [39, 87, 88, -1]
+[39, 87, 88, -1]
+What's even more striking is that Trump's solution to stop the family separations at the border -- an executive order that allows children to be detained with their parents -- is a stop-gap solution that is about to expire.
+782
+[ARG1: What 's even more striking] [V: is] [ARG2: that Trump 's solution to stop the family separations at the border -- an executive order that allows children to be detained with their parents -- is a stop - gap solution that is about to expire] .
+-1 -1
+found head of ARG1
+-1 0
+-1 0
+-1 0
+-1 0
+-1 0
+Vertex([66, 11, 192, 60, 4666],'What's even more striking',[(782, 786)],type=ARG1)
+found head of V
+4 5
+found Vertex([19],'is',[(208, 208)],type=V) at 25
+found head of ARG2
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+5 6
+Vertex([12, 14, 11, 1582, 6, 1107, 2, 288, 1050, 32, 2, 349, 35, 38, 613, 441, 12, 3515, 152, 6, 33, 1191, 17, 48, 173, 35, 19, 8, 1107, 26, 2076, 1582, 12, 19, 42, 6, 4397],'that Trump's solution to stop the family separations at the border -- an executive order that allows children to be detained with their parents -- is a stop-gap solution that is about to expire',[(788, 824)],type=ARG2)
+42 6
+Vertex([66, 11, 192, 60, 4666],'What's even more striking',[(782, 786)],type=ARG1)
+in arg1 [25, -1, 89, 90]
+in arg2 [25, -1, 89, 90]
+[25, -1, 89, 90]
+Why?
+826
+Because Trump's executive order did not override a Supreme Court decision from the early 1990s that says a child cannot be held in a detention facility for more than 20 days.
+828
+Because [ARG0: Trump 's executive order] did [ARGM-NEG: not] [V: override] [ARG1: a Supreme Court decision from the early 1990s that says a child can not be held in a detention facility for more than 20 days] .
+-1 -1
+-1 -1
+found head of ARG0
+-1 1
+-1 1
+-1 1
+-1 1
+Vertex([14, 11, 613, 441],'Trump's executive order',[(829, 832)],type=ARG0)
+4 1
+found head of ARGM-NEG
+4 1
+found head of V
+4 7
+Vertex([8023],'override',[(835, 835)],type=V)
+found head of ARG1
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+Vertex([8, 109, 43, 234, 31, 2, 455, 2788, 12, 406, 8, 1446, 134, 29, 33, 462, 10, 8, 793, 2750, 18, 60, 103, 16, 285],'a Supreme Court decision from the early 1990s that says a child cannot be held in a detention facility for more than 20 days',[(836, 860)],type=ARG1)
+32 8
+Vertex([8, 109, 43, 234, 31, 2, 455, 2788, 12, 406, 8, 1446, 134, 29, 33, 462, 10, 8, 793, 2750, 18, 60, 103, 16, 285],'a Supreme Court decision from the early 1990s that says a child cannot be held in a detention facility for more than 20 days',[(836, 860)],type=ARG1)
+in arg0 [92, 91, 93, -1]
+in arg1 [92, 91, 93, -1]
+[92, 91, 93, -1]
+Which means that on or around July 10 -- 20 days from Trump's signing of the EO on June 20 -- border enforcement officials will be required to start separating families currently being held in detention centers.
+862
+[ARG0: Which] [V: means] [ARG1: that on or around July 10 -- 20 days from Trump 's signing of the EO on June 20 -- border enforcement officials will be required to start separating families currently being held in detention centers] .
+-1 -1
+found head of ARG0
+-1 0
+Vertex([72],'Which',[(862, 862)],type=ARG0)
+found head of V
+0 1
+Vertex([931],'means',[(863, 863)],type=V)
+found head of ARG1
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+Vertex([12, 13, 65, 338, 197, 16, 35, 16, 285, 31, 14, 11, 844, 7, 2, 4736, 13, 398, 16, 35, 349, 877, 261, 47, 33, 1593, 6, 650, 2386, 362, 1177, 224, 462, 10, 793, 2579],'that on or around July 10 -- 20 days from Trump's signing of the EO on June 20 -- border enforcement officials will be required to start separating families currently being held in detention centers',[(864, 899)],type=ARG1)
+37 2
+Vertex([12, 13, 65, 338, 197, 16, 35, 16, 285, 31, 14, 11, 844, 7, 2, 4736, 13, 398, 16, 35, 349, 877, 261, 47, 33, 1593, 6, 650, 2386, 362, 1177, 224, 462, 10, 793, 2579],'that on or around July 10 -- 20 days from Trump's signing of the EO on June 20 -- border enforcement officials will be required to start separating families currently being held in detention centers',[(864, 899)],type=ARG1)
+in arg0 [95, 94, 96, -1]
+in arg1 [95, 94, 96, -1]
+[95, 94, 96, -1]
+In short: The family separation crisis is likely to get worse -- and soon.
+901
+[ARGM-DIS: In short] : [ARG1: The family separation crisis] [V: is] [ARG2: likely to get worse -- and soon] .
+-1 -1
+found head of ARGM-DIS
+-1 -1
+-1 -1
+-1 -1
+found head of ARG1
+-1 3
+-1 3
+-1 3
+-1 3
+Vertex([919, 2, 288, 753, 835],'The family separation crisis',[(904, 907)],type=ARG1)
+found head of V
+6 7
+found Vertex([19],'is',[(208, 208)],type=V) at 25
+found head of ARG2
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+7 8
+Vertex([290, 6, 185, 1680, 35, 9, 784],'likely to get worse -- and soon',[(909, 915)],type=ARG2)
+14 8
+Vertex([919, 2, 288, 753, 835],'The family separation crisis',[(904, 907)],type=ARG1)
+in arg1 [25, -1, 97, 98]
+in arg2 [25, -1, 97, 98]
+[25, -1, 97, 98]
+What of Trump's call for Congress to act?
+917
+What of Trump 's call for [ARG0: Congress] to [V: act] ?
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG0
+-1 6
+Vertex([177],'Congress',[(923, 923)],type=ARG0)
+6 6
+found head of V
+6 8
+Vertex([473],'act',[(925, 925)],type=V)
+8 8
+None
+in arg0 [100, 99, -1, -1]
+[100, 99, -1, -1]
+Prior to leaving last week for a July 4 recess, two comprehensive immigration bills -- one which was pushed by Trump and Republican leaders -- failed miserably.
+927
+[ARGM-TMP: Prior to leaving last week for a July 4 recess] , [ARG1: two comprehensive immigration bills -- one which was pushed by Trump and Republican leaders --] [V: failed] [ARGM-MNR: miserably] .
+-1 -1
+found head of ARGM-TMP
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG1
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+-1 11
+Vertex([6, 1051, 133, 157, 18, 8, 197, 16, 2468, 122, 2393, 229, 2342, 35, 59, 72, 23, 1015, 36, 14, 9, 94, 273, 35],'two comprehensive immigration bills -- one which was pushed by Trump and Republican leaders --',[(938, 952)],type=ARG1)
+found head of V
+25 26
+Vertex([2667],'failed',[(953, 953)],type=V)
+found head of ARGM-MNR
+26 26
+26 26
+Vertex([6, 1051, 133, 157, 18, 8, 197, 16, 2468, 122, 2393, 229, 2342, 35, 59, 72, 23, 1015, 36, 14, 9, 94, 273, 35],'two comprehensive immigration bills -- one which was pushed by Trump and Republican leaders --',[(938, 952)],type=ARG1)
+in arg1 [102, -1, 101, -1]
+[102, -1, 101, -1]
+Like, not even close to passage.
+956
+And Congress won't return to Washington until next Monday -- July 9 -- giving them 24 hours before major deadlines on family reunification and family separation kick in.
+964
+[ARGM-DIS: And] [ARG1: Congress] [ARGM-MOD: wo] [ARGM-NEG: n't] [V: return] [ARG4: to Washington] [ARGM-TMP: until next Monday -- July 9] -- [ARGM-ADV: giving them 24 hours before major deadlines on family reunification and family separation kick in] .
+-1 -1
+found head of ARGM-DIS
+-1 -1
+found head of ARG1
+-1 1
+Vertex([177],'Congress',[(965, 965)],type=ARG1)
+found head of ARGM-MOD
+1 1
+found head of ARGM-NEG
+1 1
+found head of V
+1 4
+Vertex([1039],'return',[(968, 968)],type=V)
+found head of ARG4
+4 4
+4 4
+found head of ARGM-TMP
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+found head of ARGM-ADV
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+4 4
+Vertex([177],'Congress',[(965, 965)],type=ARG1)
+in arg1 [104, -1, 103, -1]
+[104, -1, 103, -1]
+08-19 14:35 processing sentence 20
+Congress has been trying to pass comprehensive immigration reform in one form or another since 2005.
+994
+[ARG0: Congress] has been [V: trying] [ARG1: to pass comprehensive immigration reform in one form or another] [ARGM-TMP: since 2005] .
+-1 -1
+found head of ARG0
+-1 0
+Vertex([177],'Congress',[(994, 994)],type=ARG0)
+0 0
+0 0
+found head of V
+0 3
+Vertex([388],'trying',[(997, 997)],type=V)
+found head of ARG1
+3 4
+3 4
+3 4
+3 4
+3 4
+3 4
+3 4
+3 4
+3 4
+3 4
+Vertex([6, 1167, 2393, 229, 2821, 10, 59, 1961, 65, 279],'to pass comprehensive immigration reform in one form or another',[(998, 1007)],type=ARG1)
+found head of ARGM-TMP
+13 4
+13 4
+13 4
+Vertex([6, 1167, 2393, 229, 2821, 10, 59, 1961, 65, 279],'to pass comprehensive immigration reform in one form or another',[(998, 1007)],type=ARG1)
+in arg0 [106, 105, 107, -1]
+in arg1 [106, 105, 107, -1]
+[106, 105, 107, -1]
+It hasn't happened yet.
+1011
+[ARG1: It] has [ARGM-NEG: n't] [V: happened] [ARGM-TMP: yet] .
+-1 -1
+found head of ARG1
+-1 0
+Vertex([22],'It',[(1011, 1011)],type=ARG1)
+0 0
+found head of ARGM-NEG
+0 0
+found head of V
+0 3
+Vertex([1217],'happened',[(1014, 1014)],type=V)
+found head of ARGM-TMP
+3 3
+3 3
+Vertex([22],'It',[(1011, 1011)],type=ARG1)
+in arg1 [109, -1, 108, -1]
+[109, -1, 108, -1]
+Given that, it seems unlikely that a series of scolding tweets from the President will suddenly light the necessary fire under Congress to solve these problems.
+1017
+[ARGM-ADV: Given that] , it [V: seems] [ARG1: unlikely that a series of scolding tweets from the President will suddenly light the necessary fire under Congress to solve these problems] .
+-1 -1
+found head of ARGM-ADV
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of V
+-1 4
+Vertex([12, 785],'seems',[(1021, 1021)],type=V)
+found head of ARG1
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+4 5
+Vertex([2819, 12, 8, 1283, 7, 3634, 986, 31, 2, 28, 47, 4905, 1732, 2, 1571, 1743, 158, 177, 6, 8025, 205, 2471],'unlikely that a series of scolding tweets from the President will suddenly light the necessary fire under Congress to solve these problems',[(1022, 1043)],type=ARG1)
+26 5
+Vertex([2819, 12, 8, 1283, 7, 3634, 986, 31, 2, 28, 47, 4905, 1732, 2, 1571, 1743, 158, 177, 6, 8025, 205, 2471],'unlikely that a series of scolding tweets from the President will suddenly light the necessary fire under Congress to solve these problems',[(1022, 1043)],type=ARG1)
+in arg1 [110, -1, 111, -1]
+[110, -1, 111, -1]
+Yes, we are witnessing a policy failure here -- from the White House down through Congress.
+1045
+[ARGM-DIS: Yes] , [ARG0: we] are [V: witnessing] [ARG1: a policy failure here] -- [C-ARG1: from the White House down through Congress] .
+-1 -1
+found head of ARGM-DIS
+-1 -1
+-1 -1
+found head of ARG0
+-1 2
+Vertex([49],'we',[(1047, 1047)],type=ARG0)
+2 2
+found head of V
+2 4
+Vertex([8026],'witnessing',[(1049, 1049)],type=V)
+found head of ARG1
+4 5
+4 5
+4 5
+4 5
+Vertex([8, 332, 1481, 289],'a policy failure here',[(1050, 1053)],type=ARG1)
+8 5
+found head of C-ARG1
+8 5
+8 5
+8 5
+8 5
+8 5
+8 5
+8 5
+8 5
+Vertex([8, 332, 1481, 289],'a policy failure here',[(1050, 1053)],type=ARG1)
+in arg0 [113, 112, 114, -1]
+in arg1 [113, 112, 114, -1]
+[113, 112, 114, -1]
+But, more than that, we are watching a humanitarian crisis play out -- among the youngest of us.
+1063
+[ARGM-DIS: But] , [ARGM-ADV: more than that] , [ARG0: we] are [V: watching] [ARG1: a humanitarian crisis play out -- among the youngest of us] .
+-1 -1
+found head of ARGM-DIS
+-1 -1
+-1 -1
+found head of ARGM-ADV
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG0
+-1 6
+Vertex([103, 12, 49],'we',[(1069, 1069)],type=ARG0)
+6 6
+found head of V
+6 8
+Vertex([1930],'watching',[(1071, 1071)],type=V)
+found head of ARG1
+8 9
+8 9
+8 9
+8 9
+8 9
+8 9
+8 9
+8 9
+8 9
+8 9
+8 9
+Vertex([8, 8027, 835, 1114, 86, 35, 356, 2, 8028, 7, 40],'a humanitarian crisis play out -- among the youngest of us',[(1072, 1082)],type=ARG1)
+19 9
+Vertex([8, 8027, 835, 1114, 86, 35, 356, 2, 8028, 7, 40],'a humanitarian crisis play out -- among the youngest of us',[(1072, 1082)],type=ARG1)
+in arg0 [116, 115, 117, -1]
+in arg1 [116, 115, 117, -1]
+[116, 115, 117, -1]
+And, no matter how you feel about our border policies, that can't -- and shouldn't -- sit right with you.
+1084
+[ARGM-DIS: And] , [ARGM-ADV: no matter how you feel about our border policies] , [ARG1: that] ca [ARGM-NEG: n't] -- and [ARGM-MOD: should] [ARGM-NEG: n't] -- [V: sit] [ARG2: right with you] .
+-1 -1
+found head of ARGM-DIS
+-1 -1
+-1 -1
+found head of ARGM-ADV
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+found head of ARG1
+-1 12
+Vertex([580, 129, 56, 592, 42, 92, 349, 1040, 12],'that',[(1096, 1096)],type=ARG1)
+12 12
+found head of ARGM-NEG
+12 12
+12 12
+12 12
+found head of ARGM-MOD
+12 12
+found head of ARGM-NEG
+12 12
+12 12
+found head of V
+12 20
+Vertex([1218],'sit',[(1104, 1104)],type=V)
+found head of ARG2
+20 21
+20 21
+20 21
+Vertex([295, 17, 56],'right with you',[(1105, 1107)],type=ARG2)
+23 21
+Vertex([580, 129, 56, 592, 42, 92, 349, 1040, 12],'that',[(1096, 1096)],type=ARG1)
+in arg1 [119, -1, 118, 120]
+in arg2 [119, -1, 118, 120]
+[119, -1, 118, 120]
+0 Vertex([2, 288, 753, 835, 32, 2, 629, 11, 1450, 349, 30, 7994, 345, 2, 540, 1819, 2, 835],'the crisis',[(18, 19)],type=ARG1)
+1 Vertex([963],'remains',[(20, 20)],type=V)
+2 Vertex([2, 40, 111],'the US government',[(36, 38)],type=ARG0)
+3 Vertex([1127],'continues',[(39, 39)],type=V)
+4 Vertex([6, 3172, 6, 739, 125, 7995, 7, 2446, 13, 129, 184, 152, 27, 53, 980, 17, 48, 173],'to refuse to release any sorts of figures on how many children have been reunited with their parents',[(40, 57)],type=ARG1)
+5 Vertex([444, 627, 2, 2584, 1583, 18, 285, 2, 144, 7, 420, 9, 1122, 1115],'the Department of Health and Human Services',[(70, 76)],type=ARG0)
+6 Vertex([7996],'estimates',[(78, 78)],type=V)
+7 Vertex([22, 79, 33, 1798, 6, 3521],'it could be closer to 3,000',[(79, 84)],type=ARG1)
+8 Vertex([28, 119, 14],'President Donald Trump',[(88, 90)],type=ARG0)
+9 Vertex([1300],'dealing',[(91, 91)],type=V)
+10 Vertex([17, 12, 835],'with that crisis',[(92, 94)],type=ARG1)
+11 Vertex([1799],'tweeting',[(97, 97)],type=V)
+12 Vertex([14],'Trump',[(102, 102)],type=ARG0)
+13 Vertex([3162],'unleashed',[(103, 103)],type=V)
+14 Vertex([8, 2623, 7, 986],'a trio of tweets',[(104, 107)],type=ARG1)
+15 Vertex([340],'tweeted',[(116, 116)],type=V)
+16 Vertex([2, 794, 41, 34, 1250, 6, 189, 17],'the laws they are forced to work with',[(131, 138)],type=ARG1)
+17 Vertex([34],'are',[(139, 139)],type=V)
+18 Vertex([2075],'insane',[(140, 140)],type=ARG2)
+19 Vertex([141, 3, 17, 65, 376, 152, 3, 1709, 92, 174, 41],'they',[(154, 154)],type=ARG2)
+20 Vertex([88],'told',[(157, 157)],type=V)
+21 Vertex([6, 639, 376, 92, 174, 224, 1250, 6, 2613, 8, 247, 9, 4875, 245],'to leave without our Country being forced to endure a long and costly trial',[(158, 171)],type=ARG1)
+22 Vertex([41],'they',[(181, 181)],type=ARG0)
+23 Vertex([639],'leave',[(183, 183)],type=V)
+24 Vertex([4877, 708, 7, 62, 642, 62],'Hiring thousands of 'judges'',[(198, 203)],type=ARG1)
+25 Vertex([19],'is',[(208, 208)],type=V)
+26 Vertex([3578],'acceptable',[(210, 210)],type=ARG2)
+27 Vertex([14],'Trump',[(222, 222)],type=ARG0)
+28 Vertex([264],'added',[(223, 223)],type=V)
+29 Vertex([177, 26, 2045, 92, 2075, 229, 794, 140],'Congress - FIX OUR INSANE IMMIGRATION LAWS NOW',[(226, 233)],type=ARG1)
+30 Vertex([66, 56, 116, 27, 7997, 10, 14, 11, 986],'What you may have noticed in Trump's tweets',[(236, 244)],type=ARG1)
+31 Vertex([12, 69, 19, 8],'that there is a',[(246, 249)],type=ARG2)
+32 Vertex([2, 152],'the children',[(254, 255)],type=ARG1)
+33 Vertex([384],'separated',[(257, 257)],type=V)
+34 Vertex([31, 48, 173],'from their parents',[(258, 260)],type=ARG0)
+35 Vertex([302],'set',[(312, 312)],type=V)
+36 Vertex([36, 8, 180, 87, 10, 732],'by a federal judge in California',[(313, 318)],type=ARG0)
+37 Vertex([78, 152, 384, 31, 48, 173, 32, 2, 349],'all children separated from their parents at the border',[(330, 338)],type=ARG1)
+38 Vertex([980],'reunited',[(342, 342)],type=V)
+39 Vertex([20],'said',[(343, 343)],type=V)
+40 Vertex([22, 864, 6, 270, 2, 2581, 302, 36, 2, 732, 87, 3, 907, 12, 336, 682, 1540, 384, 635, 90, 793, 1586, 17, 48, 173],'it plans to meet the deadlines set by the California judge, although that might mean sending separated kids into detention facilities with their parents',[(344, 368)],type=ARG1)
+41 Vertex([11],''s',[(371, 371)],type=V)
+42 Vertex([2422],'easy',[(372, 372)],type=ARG2)
+43 Vertex([2, 1028, 1631, 9, 2, 2487, 3919, 6, 1160, 8002, 7, 389, 102, 3, 102, 374, 289],'to lose sight of something very, very important here',[(383, 392)],type=ARG1)
+44 Vertex([2, 797, 7, 122, 635, 158, 885, 16, 25],'I',[(418, 418)],type=ARG0)
+45 Vertex([2122],'imagine',[(422, 422)],type=V)
+46 Vertex([2, 2320, 205, 635, 35, 9, 48, 173, 35, 319, 33, 1394],'the terror these kids -- and their parents -- must be feeling',[(423, 434)],type=ARG1)
+47 Vertex([93, 74, 159, 2238, 828, 23, 16, 25],'I',[(445, 445)],type=ARG0)
+48 Vertex([780],'find',[(448, 448)],type=V)
+49 Vertex([81],'him',[(449, 449)],type=ARG1)
+50 Vertex([25],'I',[(458, 458)],type=ARG1)
+51 Vertex([23],'was',[(459, 459)],type=V)
+52 Vertex([1947, 8005],'absolutely panicked',[(460, 461)],type=ARG2)
+53 Vertex([118],'So',[(463, 463)],type=ARG2)
+54 Vertex([15],'he',[(465, 465)],type=ARG1)
+55 Vertex([12],'That',[(467, 467)],type=ARG1)
+56 Vertex([16, 985],'10 minutes',[(469, 470)],type=ARG2)
+57 Vertex([49],'We',[(472, 472)],type=ARG0)
+58 Vertex([1013],'talking',[(474, 474)],type=V)
+59 Vertex([42, 285, 9, 157, 10, 106, 451],'about days and week in some cases',[(475, 481)],type=ARG1)
+60 Vertex([44, 2209, 10, 2, 8006, 8007, 316],'This piece in the Los Angeles Times',[(484, 490)],type=ARG0)
+61 Vertex([181],'does',[(491, 491)],type=V)
+62 Vertex([8, 286, 501, 7, 8008, 136, 129, 8009, 205, 1050, 27, 53],'a good job of capturing just how traumatic these separations have been',[(492, 503)],type=ARG1)
+63 Vertex([205, 1386],'These lines',[(506, 507)],type=ARG2)
+64 Vertex([1181, 3396],'struck',[(510, 510)],type=V)
+65 Vertex([236],'me',[(511, 511)],type=ARG1)
+66 Vertex([2, 1157],'The words',[(514, 515)],type=ARG1)
+67 Vertex([831],'appear',[(516, 516)],type=V)
+68 Vertex([92, 152],'Our children',[(548, 549)],type=ARG1)
+69 Vertex([102, 2679],'very desperate',[(551, 552)],type=ARG2)
+70 Vertex([159, 828],'My son',[(554, 555)],type=ARG0)
+71 Vertex([3505],'asks',[(556, 556)],type=V)
+72 Vertex([236],'me',[(557, 557)],type=ARG2)
+73 Vertex([6, 185, 81, 86],'to get him out',[(558, 561)],type=ARG1)
+74 Vertex([25],'I',[(563, 563)],type=ARG1)
+75 Vertex([240],''m',[(564, 564)],type=V)
+76 Vertex([8013],'powerless',[(565, 565)],type=ARG2)
+77 Vertex([279, 1024, 3, 8014, 8015, 13, 8016, 1298, 8, 1334],'a mother',[(580, 581)],type=ARG0)
+78 Vertex([783],'spoke',[(582, 582)],type=V)
+79 Vertex([7, 50, 828],'of her son',[(583, 585)],type=ARG1)
+80 Vertex([41, 34, 170, 6, 8018, 236, 558],'let',[(617, 617)],type=V)
+81 Vertex([139, 57, 22],'them do it',[(618, 620)],type=ARG1)
+82 Vertex([81, 25],'I',[(630, 630)],type=ARG0)
+83 Vertex([32, 757, 8019, 152, 77, 384, 31, 48, 173, 847, 6, 2, 14, 128, 11, 5, 1449, 1595, 5, 229, 332, 4, 261, 27, 20, 41, 980, 16, 7, 160, 152, 3, 39, 75, 46, 2708, 6, 836, 139, 17, 173, 37, 77, 1191, 4, 10, 60, 103, 8, 996, 1220, 1669, 36, 8020, 3, 1191, 4760, 384, 31, 48, 152, 1176, 48, 8021, 3, 450, 6, 33, 439, 9, 782, 819, 7, 2341, 6, 48, 152, 4],'At least 2,053 children were separated from their parents due to the Trump administration's "zero tolerance" immigration policy. Officials have said they reunited 538 of those children, but didn't intend to reunite them with parents who were detained. In more than a dozen letters collected by volunteers, detained mothers separated from their children shared their despair, pleaded to be released and sent messages of love to their children.',[(640, 717)],type=ARG1)
+84 Vertex([196, 1747, 213, 3464, 8022],'HHS Secretary Alex Azar',[(722, 725)],type=ARG0)
+85 Vertex([524],'give',[(728, 728)],type=V)
+86 Vertex([8, 1943, 497, 7, 384, 152, 10, 1747, 448],'a specific number of separated children in HHS custody',[(729, 737)],type=ARG1)
+87 Vertex([15],'He',[(745, 745)],type=ARG0)
+88 Vertex([158, 3521, 152, 1177, 10, 448, 34, 224, 1876, 32, 24, 1729, 384, 1198, 9, 12, 2793, 16, 152, 158, 2, 885, 7, 582, 10, 1747, 448, 116, 27, 53, 384, 31, 48, 362],'under 3,000 children currently in custody are being looked at as possibly separated minors and that approximately 100 children under the age of five in HHS custody may have been separated from their families',[(747, 780)],type=ARG1)
+89 Vertex([66, 11, 192, 60, 4666],'What's even more striking',[(782, 786)],type=ARG1)
+90 Vertex([12, 14, 11, 1582, 6, 1107, 2, 288, 1050, 32, 2, 349, 35, 38, 613, 441, 12, 3515, 152, 6, 33, 1191, 17, 48, 173, 35, 19, 8, 1107, 26, 2076, 1582, 12, 19, 42, 6, 4397],'that Trump's solution to stop the family separations at the border -- an executive order that allows children to be detained with their parents -- is a stop-gap solution that is about to expire',[(788, 824)],type=ARG2)
+91 Vertex([14, 11, 613, 441],'Trump's executive order',[(829, 832)],type=ARG0)
+92 Vertex([8023],'override',[(835, 835)],type=V)
+93 Vertex([8, 109, 43, 234, 31, 2, 455, 2788, 12, 406, 8, 1446, 134, 29, 33, 462, 10, 8, 793, 2750, 18, 60, 103, 16, 285],'a Supreme Court decision from the early 1990s that says a child cannot be held in a detention facility for more than 20 days',[(836, 860)],type=ARG1)
+94 Vertex([72],'Which',[(862, 862)],type=ARG0)
+95 Vertex([931],'means',[(863, 863)],type=V)
+96 Vertex([12, 13, 65, 338, 197, 16, 35, 16, 285, 31, 14, 11, 844, 7, 2, 4736, 13, 398, 16, 35, 349, 877, 261, 47, 33, 1593, 6, 650, 2386, 362, 1177, 224, 462, 10, 793, 2579],'that on or around July 10 -- 20 days from Trump's signing of the EO on June 20 -- border enforcement officials will be required to start separating families currently being held in detention centers',[(864, 899)],type=ARG1)
+97 Vertex([919, 2, 288, 753, 835],'The family separation crisis',[(904, 907)],type=ARG1)
+98 Vertex([290, 6, 185, 1680, 35, 9, 784],'likely to get worse -- and soon',[(909, 915)],type=ARG2)
+99 Vertex([177],'Congress',[(923, 923)],type=ARG0)
+100 Vertex([473],'act',[(925, 925)],type=V)
+101 Vertex([6, 1051, 133, 157, 18, 8, 197, 16, 2468, 122, 2393, 229, 2342, 35, 59, 72, 23, 1015, 36, 14, 9, 94, 273, 35],'two comprehensive immigration bills -- one which was pushed by Trump and Republican leaders --',[(938, 952)],type=ARG1)
+102 Vertex([2667],'failed',[(953, 953)],type=V)
+103 Vertex([177],'Congress',[(965, 965)],type=ARG1)
+104 Vertex([1039],'return',[(968, 968)],type=V)
+105 Vertex([177],'Congress',[(994, 994)],type=ARG0)
+106 Vertex([388],'trying',[(997, 997)],type=V)
+107 Vertex([6, 1167, 2393, 229, 2821, 10, 59, 1961, 65, 279],'to pass comprehensive immigration reform in one form or another',[(998, 1007)],type=ARG1)
+108 Vertex([22],'It',[(1011, 1011)],type=ARG1)
+109 Vertex([1217],'happened',[(1014, 1014)],type=V)
+110 Vertex([12, 785],'seems',[(1021, 1021)],type=V)
+111 Vertex([2819, 12, 8, 1283, 7, 3634, 986, 31, 2, 28, 47, 4905, 1732, 2, 1571, 1743, 158, 177, 6, 8025, 205, 2471],'unlikely that a series of scolding tweets from the President will suddenly light the necessary fire under Congress to solve these problems',[(1022, 1043)],type=ARG1)
+112 Vertex([49],'we',[(1047, 1047)],type=ARG0)
+113 Vertex([8026],'witnessing',[(1049, 1049)],type=V)
+114 Vertex([8, 332, 1481, 289],'a policy failure here',[(1050, 1053)],type=ARG1)
+115 Vertex([103, 12, 49],'we',[(1069, 1069)],type=ARG0)
+116 Vertex([1930],'watching',[(1071, 1071)],type=V)
+117 Vertex([8, 8027, 835, 1114, 86, 35, 356, 2, 8028, 7, 40],'a humanitarian crisis play out -- among the youngest of us',[(1072, 1082)],type=ARG1)
+118 Vertex([580, 129, 56, 592, 42, 92, 349, 1040, 12],'that',[(1096, 1096)],type=ARG1)
+119 Vertex([1218],'sit',[(1104, 1104)],type=V)
+120 Vertex([295, 17, 56],'right with you',[(1105, 1107)],type=ARG2)
